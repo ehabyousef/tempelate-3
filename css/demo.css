@@ -1096,7 +1096,7 @@ a {
 .events .subscripe form input[type="email"] {
   padding: 20px;
   border-radius: 50px;
-  flex: 1;
+  flex: 0;
   caret-color: var(--main-color);
   border: none;
 }
