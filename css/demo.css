@@ -1026,7 +1026,7 @@ a {
 .events .info .time {
   display: flex;
   margin: 20px auto;
-  gap: 30px;
+  gap: 10px;
   align-items: center;
   justify-content: center;
 }
